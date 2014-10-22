@@ -1,3 +1,3 @@
-I'll be heavily modifying these files shortly to work with my work flow, and the types of designs that I deal with, better.
+This is a customized version of the _tk theme (modified vesion of _s theme).
 
-I'm new to forking projects, so I'll try to keep this open and documented as it begins to significatly departs from the _tk theme.
+Using Bootstrap v3.1.1
